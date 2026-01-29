@@ -5,7 +5,7 @@ This repository contains MATLAB live scripts (.mlx) for simulating the particle 
 
 ### 3D_curve_reconstruction
 
-### Cross_section
+### cross_section_calculation
 
 ## Requierements
 
