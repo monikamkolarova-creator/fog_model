@@ -4,9 +4,9 @@ This repository contains MATLAB live scripts for simulating the particle size di
 ## Files
 
 ### Curve_Generator.mlx 
-#### Matlab file for 3D_curve_reconstruction
+- Matlab file for 3D_curve_reconstruction
 
-### cross_section_calculation
+### Cross_section_calculation
 
 ## Requierements
 
