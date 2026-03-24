@@ -1,9 +1,9 @@
 # Fog Model MATLAB Repository
-This repository contains MATLAB live scripts (.mlx) for simulating the particle size distribution of advection type of fog. The input parameters are fog height and number of curves per height.
+This repository contains MATLAB live scripts for simulating the particle size distribution of advection type of fog. The input parameters are fog height and number of curves per height.
 
-## FOLDERS
+## Files
 
-### 3D_curve_reconstruction
+### Curve_Generator.mlx (Matlab file for 3D_curve_reconstruction)
 
 ### cross_section_calculation
 
